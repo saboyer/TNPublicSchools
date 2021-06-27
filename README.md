@@ -26,7 +26,7 @@ My second objective was to conduct a population study that utilizes census data 
 
 -Tableau: used to build all dashboards and visualize findings
 
--Excel: used minimally through out to spot check data to assure uniformity and accuracy
+-Excel: used minimally throughout in spot checking data to assure uniformity and accuracy
 
 ## Enterprise dashboard:
 https://public.tableau.com/app/profile/scott.boyer/viz/210627_TN_Schools_Dashboard/SchoolDashboard
